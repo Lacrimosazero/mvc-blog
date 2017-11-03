@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Basic Form - jQuery EasyUI Demo</title>
+    <link rel="stylesheet" type="text/css" href="{CSS_URL}/easyui.css">
+    <link rel="stylesheet" type="text/css" href="{CSS_URL}/icon.css">
+    <script type="text/javascript" src="{JS_URL}/jquery.min.js"></script>
+    <script type="text/javascript" src="{JS_URL}/jquery.easyui.min.js"></script>
+    <script type="text/javascript" src="{JS_URL}/addCat.js"></script>
+</head>
+<body>
+<div class="easyui-panel" title="添加分类" style="width:100%;max-width:400px;padding:30px 60px">
+
+    <form id="ff" method="post">
+
+
+        <div style="margin-bottom:20px">
+            <input class="easyui-combotree" name="pid" data-options="url:'index.php?m=admin&f=category&a=showCate',label:'父级分类'" style="width:100%">
+        </div>
+
+
+        <div style="margin-bottom:20px">
+            <input class="easyui-textbox" name="cname" style="width:100%" data-options="label:'分类名称',required:true">
+        </div>
+
+
+        <!--<div style="margin-bottom:20px">
+            <input class="easyui-textbox" name="cquanxian" style="width:100%" data-options="label:'分类权限',required:true">
+        </div>-->
+
+
+        <div style="margin-bottom:20px">
+            <input class="easyui-textbox" name="cinfo" style="width:100%;height:60px" data-options="label:'分类简介',multiline:true">
+        </div>
+
+
+    </form>
+    <div style="text-align:center;padding:5px 0;">
+        <a href="javascript:void(0)" class="easyui-linkbutton" onclick="submitForm()" style="width:80px;margin-right: 5px;">提交</a>
+        <a href="javascript:void(0)" class="easyui-linkbutton" onclick="clearForm()" style="width:80px">清空</a>
+    </div>
+</div>
+
+<script>
+    function submitForm(){
+        $("form").attr("action","index.php?m=admin&f=cat&a=addCateCon");
+        $('#ff').submit();
+    }
+    function clearForm(){
+        $('#ff').form('clear');
+    }
+</script>
+
+
+</body>
+</html>

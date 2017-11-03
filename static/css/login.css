@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background: #F1F1F1;
+}
+form{
+    width: 300px;
+    height:350px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+    padding:50px;
+    position: fixed;
+    left:0;top:0;right:0;bottom: 0;margin:auto;
+    background: #ffffff;
+    box-shadow: 0 0 8px rgba(0,0,0,.1);
+}
+h2{
+    text-align: center;
+    color: #10D07A;
+
+}
+.form-group{
+    padding:20px 0;
+
+}
+/*.title{*/
+    /*width: 100%;*/
+    /*height: 40px;*/
+    /*margin-top: 20px;*/
+/*}*/
+input{
+    width: 100%;
+    height: 40px;
+    border-radius: 40px;
+    border: 1px solid #dddddd;
+    padding-left: 15px;
+    outline: none;
+}
+.denglu{
+    display: block;
+    width: 100%;
+    height: 40px;
+    border-radius: 40px;
+    background: #10D07A;
+    color: #ffffff;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    margin-top: 20px;
+    border: none;
+    outline: none;
+}
+.logo1{
+    color: #10D07A;
+    display: block;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.yanzheng{
+    width: 50%;
+    position: relative;
+}
+
+.yanzhengma{
+    position: absolute;
+    right:-164px;
+    top:20px;
+    width: 100px;
+    height: 40px;
+    /*border:1px solid #dddddd;*/
+}
+.yanzhengma>img{
+    width: 100%;
+    height: 100%;
+}

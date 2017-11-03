@@ -1,0 +1,220 @@
+<?php
+/* Smarty version 3.1.30, created on 2017-11-03 07:53:09
+  from "E:\wamp64\www\project1\mvc\template\index\artical.html" */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '3.1.30',
+  'unifunc' => 'content_59fc2065a0a060_85808321',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    '76cff2d6b31ebb28fc20d74cbb50e361df9dd1dd' => 
+    array (
+      0 => 'E:\\wamp64\\www\\project1\\mvc\\template\\index\\artical.html',
+      1 => 1509358177,
+      2 => 'file',
+    ),
+  ),
+  'includes' => 
+  array (
+    'file:template/index/header.html' => 1,
+    'file:template/index/footer.html' => 1,
+  ),
+),false)) {
+function content_59fc2065a0a060_85808321 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->_subTemplateRender("file:template/index/header.html", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
+?>
+
+<main>
+
+    <!--列表开始-->
+    <div class="lists">
+        <!--左边列表-->
+        <div class="listLeft">
+            <div class="title">那不过是一阵蝶翼的颤动</div>
+            <div class="auther">
+                <span style="color: #10D07A">article</span>
+                <span>-</span>
+                <span>@吟游诗人</span>
+                <span>-</span>
+                <span>2017/10/9</span>
+            </div>
+            <div class="picture">
+                <img src="<?php echo IMG_URL;?>
+/f10.jpg" alt="">
+            </div>
+            <div class="artical">
+                <p>秋风丝丝缕缕地从我脸上吹过，秋叶密密麻麻地在我脚边堆积，秋天的人慢慢悠悠地在我眼前掠过。
+                </p>
+                <p>我不负责记录他们的沧桑，他们也不必要领略我的思量。</p>
+                <p>我就坐在这深深浅浅的秋里，感受着此时此刻大自然赐予我的无限温柔情意。﻿</p>
+                <p>如果是阿赫玛托娃，在这样的情境里熏陶，她会写出一篇多么才情眩目的诗篇；如果是郁达夫，他也会写出一篇动人清绝的抒情散文来，如果是张爱玲，她会写什么？</p>
+                <p>﻿她也许会写两个人，各自披着各自的大衣，各自拢着各自的围巾，各自怀着各自的愁绪，然后久别重逢，瞬间不知该如何开启话题，只能幽幽道出一句：回不去了。</p>   ﻿﻿
+                <p> ﻿我不是风雅的诗人，也不是精明的小说家，我只是一个漂泊的红尘客，在八千里路云和月外的拉萨，遭遇这样鼎盛繁华的秋，忽然多了一丝可远观而不可亵玩的感叹。﻿</p>
+                <p>﻿此刻流淌在我身上的秋阳，像是心上人温柔的絮语，告诉我关于阔别多日，独自辛苦独自甜的故事，还说我们从未背离，只是我一个人幽幽然地沉入梦境，而今终于被唤醒。</p>﻿
+                <p>我却还记得昨个日暮时分，在大昭寺附近的人行天桥，看着底下车水马龙，远远的天际，是苍蓝色的浓云，整个人只觉得，这座城市要变天了，一直以来的天朗气清都要与之作别了，我也要老老实实地穿上厚衣裳，或者干脆离开这个地方，找另外一个更加温暖的去处。</p>
+                <p>﻿旅途中的人，像一只神经兮兮，诚惶诚恐的候鸟，更加渴望颠沛流离的温暖。﻿</p>
+                <p>果不其然，夜幕降临时分的拉萨，忽然下起滂沱大雨，间或还夹杂着磅礴的雷声，黑夜里听来，分外惊心。﻿</p>
+                <p>﻿我缩在床上，不知该如何是好，读书的心情，被它生生打扰，披上大衣出门看雨，又仿佛没有那样的闲情逸致，生怕藕断丝连，自作自受，生出更多「巴山夜雨涨秋池」的悲伤，只好干脆窝在被子里，想着远方的人，心里暖不暖，身上冷不冷，脑海里回荡着的，又是哪一个念头，千丝万缕，盘根错节，是不是也有我的容身之处。﻿</p>
+                <p> ﻿一个人在异乡，再加之遇到这样的天气，不觉间思绪纷飞，那些似有若无的忧郁念头——有关前程，有关梦想，有关生活，有关思念，白日里被四处观光所冲淡或者说淹没的念头，就团团簇簇，甚嚣尘上地涌过来。﻿</p>
+                <p>﻿像是一群秃鹫，在高空盘旋，忽然目睹凡间，有一具奄奄一息的身体，于是做好俯身下冲，围追堵截的准备。</p>
+                <p>我在哲蚌寺的半山腰，看到过数不胜数的黑色乌鸦，比想象中的要大，在那样寂寞无人的山里，飞翔鸣叫，像携带着死亡气息的幽灵。</p>
+                <p>我真的恐惧，它们会组成军团，朝我势如破竹地攻击过来。﻿</p>
+                <p>﻿一道道难以释怀的灰色情绪，就像半山腰一只只目光炯炯的乌鸦，等着我心神涣散的某一刻，攻城略地，大开杀戒。</p>﻿
+                <p>想到这里，被子里面那双跋山涉水的脚，更难温暖起来。</p>
+                <p>这样的愁绪，绵延到梦里，就成了一个个晦涩诡谲的梦，比如钟鼓齐鸣的婚宴，在半山腰举行，但是风神俊郎的新郎，却抬起一座电视机，二话不说地朝山底下扔去；比如好端端的一个人，肉身上忽然流出源源不绝的水，直到将自己吞噬和淹没，比如独自一人沿着阶梯攀登一座山，忽然山形消失，徒剩了一个没有寄托的阶梯，没有寄托，悬在半空中的我……﻿</p>
+                <p>然而无论怎样抑郁和颠簸的梦境，无论怎样漫长和寂寞的夜晚，也总会有醒过来的一刹，总会有天明的时分，可是人生这场恢弘沉郁的大梦，却不知要到何时才能够幽然醒转，人生跌跌撞撞，迷迷茫茫的夜晚，却不知要到何时，才能够迎来大彻大悟的曙光。</p>﻿﻿
+                <p>﻿清晨推开门，从客栈二楼远眺出去，前些日子贫瘠而赤裸的远山峰峦蒙上了一层晶莹雪衣，令人眼前一亮，心境瞬间静谧空灵。﻿</p>
+                <p>我不在海明威的乞力马扎罗，不在阿加莎克里斯蒂的东方快车上，也不在川端康成神秘空灵的雪国，我就在十月将尽的拉萨，看见一场被我生生错过的雪，忽然想起你的模样。</p>
+                <p>仿佛是清洁一空的容器，瞬间玲珑剔透。﻿</p>
+                <p>﻿我知道，一如许许多多个往常，我再一次获得了沉静，在清晨的温柔天光里，得到了灵魂的救赎。﻿</p>﻿
+                <p>那种救赎，就和此时此刻金秋的艳阳，阳光下的黄叶，还有脚下沉厚潮湿的土壤赐予我的一样。﻿</p>
+                <p>﻿我们总在渐行渐远地感伤，总在将自己一步步推向成为走火入魔的偏执狂的路上，但是我们又总能在浮生里的某一个瞬间获得释然，仿佛所有的羁绊，所有的愁烦，所有的秘密，都化作清晨的朝露，寂寞蒸发，烟消云散。</p>
+                <p>就像川端小说《千只鹤》里的女子，在独自一人的茫茫雪山，给从前搁在心上如滚烫的刺青的男人写一封信，告诉他自己安然无恙，不再执着追求，也不再寂寞奢望。</p>
+                <p>就像亦舒小说《人淡如菊》里的乔，在英国一个吹着秋风的午后，想起曾经那段和教授之间令她欢喜悲愁，让她时时刻刻陷在如履薄冰人情氛围里的爱恋，终于能够心安理得地释然，并且选择解脱原谅。</p>
+                <p>就像太平洋上的一场风暴，其实只是大洋彼岸的一只蝴蝶轻描淡写，无人问津的一阵翅膀翕动一样。</p>
+                <p>也许我们所谓的郁郁不平，闷闷不乐，其实不过只是蝴蝶翅膀的轻微孱弱的抖动而已。</p>
+                <p>又或者说，我们今天为之长夜不宁，心结难消的所谓烦愁，也终将只能是慢慢浮生里，一阵轻描淡写的蝶翼颤动而已。</p>
+
+            </div>
+            <div class="zuozhe">
+                <div class="touxiang"></div>
+                <div class="jieshao">
+                    <div class="name">
+                        <span>作者 &nbsp;:&nbsp;</span>
+                        <span style="color: #10D07A">吟游诗人</span>
+                    </div>
+                    <span class="miaoshu">华枝春满，月白风清,个人微信号111111，个人微博......</span>
+                    <div class="miaoshu1">
+                        写了<span>13532</span>字，被<span>57346</span>人关注，获得了<span>469357</span>个喜欢
+                    </div>
+                </div>
+                <a href="" class="guanzhu">关注</a>
+            </div>
+            <!--喜欢-->
+            <div class="xihuan">
+                <a href="" class="love">
+                    <span>喜欢</span>
+                    <span>|</span>
+                    <span>29</span>
+                </a>
+                <a href="" class="zhichi">赞赏支持</a>
+                <a href="" class="fenxiang">分享</a>
+            </div>
+
+            <!--评论-->
+            <div class="pinglun">
+                <h3>评论</h3>
+                <textarea name="" id="" cols="30" rows="10" placeholder="一字千金"></textarea>
+                <button>发表评论</button>
+            </div>
+            <div class="pTop">
+                <span>56条评论</span>
+                <a href="" class="only">只看作者</a>
+                <div class="pullRight">
+                    <a href="">按喜欢排序</a>
+                    <a href="">按时间正序</a>
+                    <a href="">按时间倒叙</a>
+                </div>
+            </div>
+            <div class="comment">
+                <div>
+                    <div class="author">
+                        <a href="" class="photo"><img src="" alt=""></a>
+                        <div class="info">
+                            <a href="">深山女巫</a>
+                            <div class="foo">
+                                <span>7楼&nbsp;&nbsp;2017/10/30&nbsp;&nbsp;12:19</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="comment-wrap">
+                        <p>仰望星空，脚踏实地啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊</p>
+                        <div class="tool-group">
+                            <a href="">
+                                <i class="iconfont icon-tuijian"></i>
+                                <span>6人赞</span>
+                            </a>
+                            <a href="">
+                                <i class="iconfont icon-pinglun2"></i>
+                                <span>回复</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="sub-list">
+                    <div class="sub-comment">
+                        <p>
+                            <a href="">吟游诗人</a>：
+                            <span>
+                                <a href="">@深山女巫</a>
+                                握手！
+                            </span>
+                        </p>
+                        <div class="sub-tool">
+                            <span>2017/10/30/12:19</span>
+                            <a href="">
+                                <i class="iconfont icon-pinglun2"></i>
+                                <span>回复</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="more-comment">
+                        <a href="">
+                            <i class="iconfont icon-write"></i>
+                            <span>添加新评论</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--右边列表-->
+        <div class="listRight">
+            <div class="tagBox">
+                <h2>热门专题</h2>
+                <a href="" class="tag">世间事</a>
+                <a href="" class="tag">心里</a>
+                <a href="" class="tag">历史</a>
+                <a href="" class="tag">散文</a>
+                <a href="" class="tag">连载小说</a>
+                <a href="" class="tag">手账圈</a>
+            </div>
+
+        </div>
+    </div>
+    <!--列表结束-->
+
+
+</main>
+<!--固定侧导航-->
+<div class="sideTool">
+    <ul>
+        <li>
+            <a href="">
+                <i class="iconfont icon-jiankuohao-xi-shang"></i>
+            </a>
+        </li>
+        <li>
+            <a href="">
+                <i class="iconfont icon-guanzhu"></i>
+            </a>
+        </li>
+        <li>
+            <a href="">
+                <i class="iconfont icon-shoucang"></i>
+            </a>
+        </li>
+        <li>
+            <a href="">
+                <i class="iconfont icon-fenxiang"></i>
+            </a>
+        </li>
+    </ul>
+</div>
+<?php $_smarty_tpl->_subTemplateRender("file:template/index/footer.html", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
+?>
+
+
+<?php }
+}

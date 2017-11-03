@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    padding-left: 40px;
+}
+
+/*选项卡*/
+.tab{
+    width: 100%;
+}
+.tab .tab_menu{
+    border-bottom: 1px solid #dddddd;
+    height: 50px;
+    width: 100%;
+}
+.tab .tab_menu ul li{
+    float: left;
+    width: 100px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.tab .tab_menu ul li.on{
+    color: #10D07A;
+    border-bottom: 2px solid #10D07A;
+}
+.tab .tab_box > div{
+    width: 100%;
+    height: 250px;
+    margin-top: 3px;
+    border-width: 0 1px 1px 1px;
+    display: none;
+}
+.tab .tab_box > div:first-child{
+    display: block;
+}
+
+/*专题*/
+.zhuantiBox{
+    width: 100%;
+    height: 66px;
+    border-bottom: 1px solid #dddddd;
+    padding-bottom: 36px;
+    padding-top: 36px;
+}
+.zhuantiBox>.photo{
+    display: block;
+    width: 66px;
+    height: 66px;
+    float: left;
+}
+.zhuantiBox>.photo>img{
+    width: 100%;
+    height: 100%;
+}
+.zhuantiBox>.info{
+    width: 600px;
+    height: 100%;
+    float: left;
+    margin-left: 20px;
+}
+.zhuantiBox>.info>.name{
+    margin: 0 0 5px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #333;
+    display: block;
+}
+.zhuantiBox>.info>p{
+    margin: 0 0 5px;
+    font-size: 12px;
+    color: #969696;
+}
+.zhuantiBox>.info>.bottom{
+    font-size: 15px;
+    font-size: 12px;
+    color: #969696;
+    display: block;
+}
+.zhuantiBox>.btn{
+    width: 100px;
+    height: 21px;
+    float: right;
+    padding:8px 0;
+    margin-top: 10px;
+    border-radius: 20px;
+    background: #10D07A;
+    color: #ffffff;
+}
+.zhuantiBox>.btn>i{
+    margin-left: 20px;
+}

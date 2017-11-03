@@ -1,0 +1,125 @@
+.zhuantiLeft{
+    width: 764px;
+    height: auto;
+    /*background: pink;*/
+    float: left;
+    margin-top: 95px;
+}
+.zhuantiLeft .mainTop{
+    width: 100%;
+    height: 96px;
+    /*padding-top: 36px;*/
+}
+.zhuantiLeft .mainTop>.photo{
+    display: block;
+    width: 96px;
+    height: 96px;
+    border-radius: 10px;
+    background: #10D07A;
+    float: left;
+}
+.zhuantiLeft .mainTop>.photo>img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.zhuantiLeft .mainRight{
+    width: 400px;
+    height: 100%;
+    float: left;
+    margin-left: 40px;
+}
+
+.zhuantiLeft .name{
+    display: block;
+    font-size: 20px;
+    color: #000000;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+.zhuantiLeft .jieshao{
+    width: auto;
+    height: auto;
+    margin-top: 20px;
+    padding-left: 10px;
+    color: #969696;
+    font-size: 15px;
+    float: left;
+}
+
+/*选项卡*/
+.tab{
+    width: 100%;
+    margin-top: 36px;
+}
+.tab .tab_menu{
+    border-bottom: 1px solid #dddddd;
+    height: 50px;
+    width: 100%;
+
+}
+.tab .tab_menu ul li{
+    float: left;
+    width: auto;
+    text-align: center;
+    line-height: 50px;
+    font-size: 15px;
+    color: #333333;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.tab .tab_menu ul li.on{
+    color: #10D07A;
+    border-bottom: 2px solid #10D07A;
+}
+.tab .tab_box > div{
+    /*border: #333333 solid;*/
+    border-width: 0 1px 1px 1px;
+    display: none; //将三个内容框架全隐藏，通过下面的:first-child属性只将第一个框架内容显示出来
+}
+.tab_box{
+    margin-top: 30px;
+}
+.tab .tab_box > div:first-child{
+    display: block;
+}
+
+
+/*右边*/
+.zhuantiRight{
+    width: 346px;
+    height: 300px;
+    float: right;
+    /*background: lightpink;*/
+    margin-top: 95px;
+}
+.zhuantiRight>.rowLine{
+    width: 100%;
+    /*height: 18px;*/
+    border-bottom: 1px solid #dddddd;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+
+}
+.zhuantiRight .dynamic{
+    width: 100%;
+    height: auto;
+}
+.zhuantiRight .dynamic>li>a{
+    display: block;
+    width: 100%;
+    height: 40px;
+    color: #333333;
+    line-height: 40px;
+    font-size: 15px;
+}
+.zhuantiTitle{
+    margin-bottom: 10px;
+    color: #969696;
+}
+.newZhuanti>a{
+    color: #10D07A;
+    font-size: 15px;
+}
